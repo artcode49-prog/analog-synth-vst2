@@ -1,4 +1,4 @@
-name: Build VST3
+name: name: Build VST3 Plugin
 
 on:
   push:
